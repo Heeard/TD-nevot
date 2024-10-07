@@ -31,3 +31,12 @@ Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une ca
 
 
 
+
+La recherche permet de pouvoir former d'autre unité, souvent plus efficace, ou d'améliorer celle déjà disponible. On utilise des ressources pour en lancé 2 au maximum, et on peut les annuler en cas des besoins et nos ressources nous sont rétribués proportionnellement au temps de recherche effectué.
+Chaque jour de nouvelle recherche sont débloqué au fur et à mesure de l'avancement de la guerre, et la progression des recherches est hiérarchique, donc on ne peut pas débloqué les recherches supérieurs sans avoir débloqué celle avant.
+
+3 doctrines militaires en fonction de la nation choisie, la doctrine de notre pays influe la priorité des recherches durant l'avancement de la guerre.
+
+
+
+
