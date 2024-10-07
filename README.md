@@ -16,5 +16,5 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 
 
 ## Comment Jouer ?
-### Ressource et production
+   ### Ressource et production
 
