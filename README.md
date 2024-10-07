@@ -1,2 +1,1 @@
-# conflict of nations
-oizinqzf
+# conflict of nation
