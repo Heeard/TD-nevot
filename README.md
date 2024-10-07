@@ -3,3 +3,9 @@
 L'objectif principal du jeu est de conquérir un maximum de territoires pour atteindre un score de victoire. 
 
 ![](https://doradogames.com/app/uploads/2022/05/con-game-icon.jpg)
+
+|  Sommaire |
+| --------:|
+| 1/ |
+| 2/ |
+| 3/ |
