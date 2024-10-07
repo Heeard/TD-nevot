@@ -4,8 +4,8 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 
 ![](https://doradogames.com/app/uploads/2022/05/con-game-icon.jpg)
 
-|  Sommaire |
-| --------:|
-| 1/ |
-| 2/ |
-| 3/ |
+
+#####Sommaire#####
+
+1. blabla
+2. bloublou
