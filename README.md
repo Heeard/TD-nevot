@@ -8,4 +8,7 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 #### Sommaire
 
 1. blabla
+  1.1. zfqzf
+  1.2. qzfq
 2. bloublou
+3. gdrg
