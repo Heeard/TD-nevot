@@ -5,16 +5,29 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 ![](https://doradogames.com/app/uploads/2022/05/con-game-icon.jpg)
 
 
-#### Sommaire
+### Sommaire
 
-- [Comment Jouer ?](#Comment-Jouer-?)
-  * [Ressource et production](Ressource-et-production)
-  * [Recherche et doctrine](Recherche-et-doctrine)
-  * [Combat](Combat)
-  * [Alliance](Alliance)
+- [Introduction](Introduction)
+  *Terrain
+  
+- [Ressource et production](Ressource-et-production)
+- [Recherche et doctrine](Recherche-et-doctrine)
+- [Combat](Combat)
+- [Alliance](Alliance)
 
 
 
 ## Comment Jouer ?
+### Introduction
+
+Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une carte du monde ou seulement une partie. L'objectif à atteindre pour gagner est un quota de point de conquête qui augmente en capturant un maximum de territoire. Une fois le gagnant déterminé, les joueurs recoivent de l'or et un peu de monnaie premium du jeu en fonction du nombre de point de conquête accumulé.
+
+#### Terrain
+
+ Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre.
+ **Les provinces** 
+
 ### Ressource et production
+
+
 
