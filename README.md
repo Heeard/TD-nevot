@@ -27,7 +27,9 @@ Et voici une video pour introduire les commandes du jeu qui sont assez complexe 
 
 Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes** 
 
+
 ---
+
 
 ### Ressource et production
 
