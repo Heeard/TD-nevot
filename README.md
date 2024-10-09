@@ -49,9 +49,21 @@ De nouvelles recherches sont débloqués au fur et à mesure de l'avancement de 
 
 ## Combat
 
-Les combats dans **Conflicr of Nations** sont très compliqués et il faut faire attention à :
+Les combats dans **Conflict of Nations** sont très compliqués et il faut faire attention à :
 * __La diligence :__ Anticiper, puisque les combats peuvent prendre plusieurs jours
-* __Stratégie efficace :__
-* __Aux ressources :__
+* __Stratégie efficace :__ Le positionnement des troupes et leurs fonctions lors des combats
+* __Aux ressources :__ Ne pas gaspillez des ressources qui sont très limité
 
+## Diplomatie
+
+Avoir de bonne relation **diplomatique** est essentiel, s'entraider peut être la clé de la victoire
+
+Il existe **5** statues diplomatique dans le jeu :
+
+| Nom        | Image        | Description  |
+| ------------- |:-------------:| -----:|
+| Paix      | <img src="https://wiki.conflictnations.com/images/7/7e/IconPeace.png"> | La relation diplomatique par défault avec les autres pays |
+| Renseignement partagé      | <img src="https://wiki.conflictnations.com/images/d/dd/IconIntelligence.png">   | Pour partagé la plupart des informations avec d'autres pays |
+| Droit de passage | <img src="https://wiki.conflictnations.com/images/c/ce/IconRightOfWay.png">   |  Pour permettre à des pays de déplacer des unités sur votre propre pays, mais <span style="color: #	FF0000">ATTENTION</span>, si le pays souhaite vous trahir, il pourra directement s'emparer des villes depuis l'interieur de votre pays |
+| Guerre | <img src="https://wiki.conflictnations.com/images/4/4c/IconWar.png">  |  Pour se taper dessus |
 
