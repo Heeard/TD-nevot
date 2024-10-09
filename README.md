@@ -64,6 +64,6 @@ Il existe **5** statues diplomatique dans le jeu :
 | ------------- |:-------------:| -----:|
 | Paix      | <img src="https://wiki.conflictnations.com/images/7/7e/IconPeace.png"> | La relation diplomatique par défault avec les autres pays |
 | Renseignement partagé      | <img src="https://wiki.conflictnations.com/images/d/dd/IconIntelligence.png">   | Pour partagé la plupart des informations avec d'autres pays |
-| Droit de passage | <img src="https://wiki.conflictnations.com/images/c/ce/IconRightOfWay.png">   |  Pour permettre à des pays de déplacer des unités sur votre propre pays, mais <span style="color: #	FF0000">ATTENTION</span>, si le pays souhaite vous trahir, il pourra directement s'emparer des villes depuis l'interieur de votre pays |
+| Droit de passage | <img src="https://wiki.conflictnations.com/images/c/ce/IconRightOfWay.png">   |  Pour permettre à des pays de déplacer des unités sur votre propre pays, mais **ATTENTION**, si le pays souhaite vous trahir, il pourra directement s'emparer des villes depuis l'interieur de votre pays |
 | Guerre | <img src="https://wiki.conflictnations.com/images/4/4c/IconWar.png">  |  Pour se taper dessus |
 
