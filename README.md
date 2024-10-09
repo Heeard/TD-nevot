@@ -36,7 +36,7 @@ Il existe 7 ressources différentes,  et sont recoltés dans les provinces ou le
 
 Fournitures | Composants | Main d'oeuvre | Matériaux rares | Carburant | Électronique | Argent
 --- | --- | --- | --- | --- | --- | ---
-<img src="https://wiki.conflictnations.com/images/thumb/3/32/Resource_1_big.png/70px-Resource_1_big.png"> | `renders` | **nicely**
+<img src="https://wiki.conflictnations.com/images/thumb/3/32/Resource_1_big.png/70px-Resource_1_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/f/fc/Resource_2_big.png/70px-Resource_2_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/f/fa/Resource_3_big.png/70px-Resource_3_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/e/ef/Resource_4_big.png/70px-Resource_4_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/a/a5/Resource_5_big.png/70px-Resource_5_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/3/35/Resource_6_big.png/70px-Resource_6_big.png"> | <img src="https://wiki.conflictnations.com/images/thumb/2/2b/Resource_20_big.png/70px-Resource_20_big.png">
 
 
 
