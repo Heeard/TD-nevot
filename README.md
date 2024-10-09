@@ -21,7 +21,7 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 
 Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une carte du monde ou seulement une partie. L'objectif à atteindre pour gagner est un quota de point de conquête qui augmente en capturant un maximum de territoire. Une fois le gagnant déterminé, les joueurs recoivent de l'or et un peu de monnaie premium du jeu en fonction du nombre de point de conquête accumulé.
 
-Et voici une video pour introduire les commandes du jeu qui sont assez complexe : <a href="https://www.youtube.com/watch?v=4L2-0bpWs5Q&t=1s"></a>
+Et voici une video pour introduire les commandes du jeu qui sont assez complexe : <a href="https://www.youtube.com/watch?v=4L2-0bpWs5Q&t=1s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Tuto commande" width="25" height="18,9" border="10" /></a>
 
 
 #### Terrain
