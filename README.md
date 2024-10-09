@@ -1,5 +1,5 @@
 # Conflict Of Nations
-**Conflict Of Nations** est un jeu de stratégie multijoueur en temps réel déveloper par [Dog Productions](https://doradogames.com/) en 2016. Le jeu à sa sortie à rapidement un grand succès du fait de ça faciliter de prise et sa stratégie très pousser. Le jeu se base sur des cartes de la réalité, que ce soit l'Europe ou la carte du monde. Les parties peuvent monter jusqu’à 100 joueurs et durée pendant des mois d’affrontement .
+**Conflict Of Nations** est un jeu de stratégie multijoueur en temps réel déveloper par [Dog Productions](https://doradogames.com/) en 2016. Le jeu à sa sortie à rapidement un grand succès du fait de ça faciliter de prise en main et sa stratégie très pousser. Le jeu se base sur des cartes de la réalité, que ce soit l'Europe ou la carte du monde. Les parties peuvent monter jusqu’à 100 joueurs et durée pendant des mois d’affrontement .
 L'objectif principal du jeu est de conquérir un maximum de territoires pour atteindre un score de victoire. 
 
 ![](https://doradogames.com/app/uploads/2022/05/con-game-icon.jpg)
@@ -12,8 +12,8 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 - [Ressource et production](#ressource-et-production)
   * [Marché](#marché)
 - [Recherche et doctrine](#recherche-et-doctrine)
-- [Combat](Combat)
-- [Alliance](Alliance)
+- [Combat](#combat)
+- [Diplomatie](#Diplomatie)
 
 
 
@@ -47,6 +47,11 @@ De nouvelles recherches sont débloqués au fur et à mesure de l'avancement de 
 
 3 doctrines militaires en fonction de la nation choisie, la doctrine de notre pays influe la priorité des recherches durant l'avancement de la guerre, La doctrine **Est**, **Ouest** et **Européenne**.
 
+## Combat
 
+Les combats dans **Conflicr of Nations** sont très compliqués et il faut faire attention à :
+* __La diligence :__ Anticiper, puisque les combats peuvent prendre plusieurs jours
+* __Stratégie efficace :__
+* __Aux ressources :__
 
 
