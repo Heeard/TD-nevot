@@ -21,6 +21,13 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 
 Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une carte du monde ou seulement une partie. L'objectif à atteindre pour gagner est un quota de point de conquête qui augmente en capturant un maximum de territoire. Une fois le gagnant déterminé, les joueurs recoivent de l'or et un peu de monnaie premium du jeu en fonction du nombre de point de conquête accumulé.
 
+Et voici une video pour introduire les commandes du jeu qui sont assez complexe :
+
+<a href="https://www.youtube.com/watch?v=4L2-0bpWs5Q&t=1s" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
 #### Terrain
 
 Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes** 
@@ -29,7 +36,7 @@ Chaque pays est divisés en petites régions qui sont soit des provinces ou des 
 
 Il existe 7 ressources différentes et sont recoltés dans les provinces ou les villes lorsque l'on possède la region.
 
-![]https://static.wikia.nocookie.net/conflictnations/images/0/0c/Resources_Info.png/revision/latest?cb=20220412034746
+<img src="https://static.wikia.nocookie.net/conflictnations/images/0/0c/Resources_Info.png/revision/latest?cb=20220412034746" width="250" height="214,7" />
 
 ### Recherche et doctrine
 La recherche permet de pouvoir avoir d'autre unité ou d'améliorer celle déjà disponible.
