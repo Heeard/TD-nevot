@@ -23,16 +23,24 @@ Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une ca
 
 Et voici une video pour introduire les commandes du jeu qui sont assez complexe : <a href="https://www.youtube.com/watch?v=4L2-0bpWs5Q&t=1s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Tuto commande" width="25" height="18,9" border="10" /></a>
 
-
 #### Terrain
 
 Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes** 
 
+---
+
 ### Ressource et production
 
-Il existe 7 ressources différentes et sont recoltés dans les provinces ou les villes lorsque l'on possède la region.
+Il existe 7 ressources différentes,  et sont recoltés dans les provinces ou les villes lorsque l'on possède la region.
 
-<img src="https://static.wikia.nocookie.net/conflictnations/images/0/0c/Resources_Info.png/revision/latest?cb=20220412034746" width="250" height="214,7" />
+
+Fournitures | Composants | Main d'oeuvre | Matériaux rares | Carburant | Électronique | Argent
+--- | --- | --- | --- | --- | --- | ---
+<img src="https://wiki.conflictnations.com/images/thumb/3/32/Resource_1_big.png/70px-Resource_1_big.png"> | `renders` | **nicely**
+
+
+
+
 
 ### Recherche et doctrine
 La recherche permet de pouvoir avoir d'autre unité ou d'améliorer celle déjà disponible.
