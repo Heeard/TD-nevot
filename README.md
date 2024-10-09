@@ -45,7 +45,7 @@ Le marché permet de vendre ou d'acheter des ressource contre de l'argent. <img 
 La recherche permet de pouvoir avoir d'autre unité ou d'améliorer celle déjà disponible.
 De nouvelles recherches sont débloqués au fur et à mesure de l'avancement de la guerre.
 
-3 doctrines militaires en fonction de la nation choisie, la doctrine de notre pays influe la priorité des recherches durant l'avancement de la guerre.
+3 doctrines militaires en fonction de la nation choisie, la doctrine de notre pays influe la priorité des recherches durant l'avancement de la guerre, La doctrine **Est**, **Ouest** et **Européenne**.
 
 
 
