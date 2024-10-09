@@ -8,9 +8,9 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 ### Sommaire
 
 - [Introduction](#introduction)
-  * Terrain(#terrain)
+  * [Terrain](#terrain)
 - [Ressource et production](#ressource-et-production)
-  * Marché(#marché)
+  * [Marché](#marché)
 - [Recherche et doctrine](#recherche-et-doctrine)
 - [Combat](Combat)
 - [Alliance](Alliance)
