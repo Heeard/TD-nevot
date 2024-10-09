@@ -23,16 +23,17 @@ Au lancement d'une partie, on choisis une nation, puis on se retrouve sur une ca
 
 #### Terrain
 
- Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre.
- **Les provinces** 
+Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes** 
 
 ### Ressource et production
 
+Il existe 7 ressources différentes et sont recoltés dans les provinces ou les villes lorsque l'on possède la region.
 
+![]https://static.wikia.nocookie.net/conflictnations/images/0/0c/Resources_Info.png/revision/latest?cb=20220412034746
 
-
-La recherche permet de pouvoir former d'autre unité, souvent plus efficace, ou d'améliorer celle déjà disponible. On utilise des ressources pour en lancé 2 au maximum, et on peut les annuler en cas des besoins et nos ressources nous sont rétribués proportionnellement au temps de recherche effectué.
-Chaque jour de nouvelle recherche sont débloqué au fur et à mesure de l'avancement de la guerre, et la progression des recherches est hiérarchique, donc on ne peut pas débloqué les recherches supérieurs sans avoir débloqué celle avant.
+### Recherche et doctrine
+La recherche permet de pouvoir avoir d'autre unité ou d'améliorer celle déjà disponible.
+De nouvelles recherches sont débloqués au fur et à mesure de l'avancement de la guerre.
 
 3 doctrines militaires en fonction de la nation choisie, la doctrine de notre pays influe la priorité des recherches durant l'avancement de la guerre.
 
