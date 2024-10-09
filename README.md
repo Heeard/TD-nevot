@@ -7,10 +7,10 @@ L'objectif principal du jeu est de conquérir un maximum de territoires pour att
 
 ### Sommaire
 
-- [Introduction](introduction)
+- [Introduction](#introduction)
   * Terrain
-- [Ressource et production](ressource-et-production)
-- [Recherche et doctrine](recherche-et-doctrine)
+- [Ressource et production](#ressource-et-production)
+- [Recherche et doctrine](#recherche-et-doctrine)
 - [Combat](Combat)
 - [Alliance](Alliance)
 
