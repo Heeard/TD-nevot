@@ -25,7 +25,7 @@ Et voici une video pour introduire les commandes du jeu qui sont assez complexe 
 
 #### Terrain
 
-Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes** 
+Chaque pays est divisés en petites régions qui sont soit des provinces ou des villes. On peut dans les régions construires un pannel de batiments et y faire stationner des unités pour combattre, ce sont **les provinces**  ou **les villes.** 
 
 ## Ressource et production
 
@@ -50,20 +50,22 @@ De nouvelles recherches sont débloqués au fur et à mesure de l'avancement de 
 ## Combat
 
 Les combats dans **Conflict of Nations** sont très compliqués et il faut faire attention à :
-* __La diligence :__ Anticiper, puisque les combats peuvent prendre plusieurs jours
-* __Stratégie efficace :__ Le positionnement des troupes et leurs fonctions lors des combats
-* __Aux ressources :__ Ne pas gaspillez des ressources qui sont très limité
+* __La diligence :__ Anticiper, puisque les combats peuvent prendre plusieurs jours.
+* __Stratégie efficace :__ Le positionnement des troupes et leurs fonctions lors des combats.
+* __Aux ressources :__ Ne pas gaspillez des ressources qui sont très limité.
 
 ## Diplomatie
 
-Avoir de bonne relation **diplomatique** est essentiel, s'entraider peut être la clé de la victoire
+Avoir de bonne relation **diplomatique** est essentiel, s'entraider peut être la clé de la victoire.
 
 Il existe **5** statues diplomatique dans le jeu :
 
 | Nom        | Image        | Description  |
 | ------------- |:-------------:| -----:|
-| Paix      | <img src="https://wiki.conflictnations.com/images/7/7e/IconPeace.png"> | La relation diplomatique par défault avec les autres pays |
-| Renseignement partagé      | <img src="https://wiki.conflictnations.com/images/d/dd/IconIntelligence.png">   | Pour partagé la plupart des informations avec d'autres pays |
-| Droit de passage | <img src="https://wiki.conflictnations.com/images/c/ce/IconRightOfWay.png">   |  Pour permettre à des pays de déplacer des unités sur votre propre pays, mais **ATTENTION**, si le pays souhaite vous trahir, il pourra directement s'emparer des villes depuis l'interieur de votre pays |
-| Guerre | <img src="https://wiki.conflictnations.com/images/4/4c/IconWar.png">  |  Pour se taper dessus |
+| Paix      | <img src="https://wiki.conflictnations.com/images/7/7e/IconPeace.png"> | La relation diplomatique par défault avec les autres pays. |
+| Renseignement partagé      | <img src="https://wiki.conflictnations.com/images/d/dd/IconIntelligence.png">   | Pour partagé la plupart des informations avec d'autres pays. |
+| Droit de passage | <img src="https://wiki.conflictnations.com/images/c/ce/IconRightOfWay.png">   |  Pour permettre à des pays de déplacer des unités sur votre propre pays, mais **ATTENTION**, si le pays souhaite vous trahir, il pourra directement s'emparer des villes depuis l'interieur de votre pays. |
+| Guerre | <img src="https://wiki.conflictnations.com/images/4/4c/IconWar.png">  |  Pour se taper dessus. |
+
+Dans **conflict of nations**, on a la possiblité de créer une coalition, qui permet de faire equipe avec 5 pays différents. On peut aussi créer des alliances, qui elle ne se limite pas à une partie et permet de gagner des récompenses.
 
